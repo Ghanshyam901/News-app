@@ -1,0 +1,1 @@
+Const url = 'mongodb://user:12345sk@inshorts-shard-00-00.qh40w.mongodb.net:27017,inshorts-shard-00-01.qh40w.mongodb.net:27017,inshorts-shard-00-02.qh40w.mongodb.net:27017/NEWSAPP?ssl=true&replicaSet=atlas-ikson7-shard-0&authSource=admin&retryWrites=true&w=majority';
